@@ -71,7 +71,6 @@ services:
     volumes:
       - ./logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml:ro,Z
       - ./logstash/pipeline:/usr/share/logstash/pipeline:ro,Z
-      - ./jar/mysql-connector-java-8.0.18.jar:/usr/share/logstash/logstash-core/lib/jars/mysql-connector-java-8.0.18-bin.jar #mysql 사용을 위한 jdbc-connector 다운
     ports:
       - 5044:5044
       - 50000:50000/tcp
