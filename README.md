@@ -4,7 +4,7 @@
 ![도커 로컬구축과정_완](https://github.com/BookermanProject/docker_elk/assets/40461588/4826c988-8cc5-481d-9ebc-60d3e2e8739c)
 
 ## 인프라 서버 구축 
-![인프라 서버 구축 과정](https://github.com/BookermanProject/docker_elk/assets/40461588/bf539fe4-3f4d-4d00-bc61-624b13e4577a)
+![인프라서버 구축 2222](https://github.com/BookermanProject/docker_elk/assets/40461588/c1d86e12-9803-4b11-abb4-757e69f1bdcd)
 
 ### SEVER
 
