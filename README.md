@@ -1,7 +1,7 @@
 # ELK 구축과정 
 
 ## Local 개발 환경 통일 
-![도커 로컬구축과정](https://github.com/BookermanProject/docker_elk/assets/40461588/7afca11b-a1db-4a54-a404-78abaf04b0a8)
+![도커 로컬구축과정_완](https://github.com/BookermanProject/docker_elk/assets/40461588/4826c988-8cc5-481d-9ebc-60d3e2e8739c)
 
 ## 인프라 서버 구축 
 ![인프라 서버 구축 과정](https://github.com/BookermanProject/docker_elk/assets/40461588/bf539fe4-3f4d-4d00-bc61-624b13e4577a)
